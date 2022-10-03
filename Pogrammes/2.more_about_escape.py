@@ -1,4 +1,4 @@
-#eg:
+#Example:
 #output : Line A \n line B
 #\\=\
 print("Line A \\n Line B")
